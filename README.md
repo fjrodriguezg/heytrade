@@ -29,3 +29,7 @@ Si HeyTrade cambia la estructura del PDF, deja de funcionar.
 No hay control de nulos, excepciones, tests, mapeos bonitos, etc... Es un proyecto para solucionarme rápido un problema.
 No se tuvo en cuenta la huella en memoria ni cpu. Tampoco la estructura está muy pensada. 
 Por si no queda claro: NO ES PRODUCTIVO.
+
+Si hay dudas, mejoras o simplemente quieres charlar un rato, mi correo es fjavier.rodriguez.gallego@gmail.com
+
+Agradecimientos a los usuarios del canal de Telegram DGI(Dividendos crecientes).
